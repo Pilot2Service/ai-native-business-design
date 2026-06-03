@@ -94,3 +94,15 @@ Write as a skilled, experienced business mentor. Keep it clear and easy to read.
 Created by **Tommi Järvinen**, a senior expert in commercialisation, startup development, and business design, with more than 15 years helping new businesses, technologies, and research-based innovations move toward market.
 
 Tommi Järvinen — tommi@firstkiss.co
+
+---
+---
+
+## License
+
+*AI-Native Business Design* by **Tommi Järvinen** is licensed under a
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this material for any purpose, including commercially,
+as long as you give appropriate credit. Suggested attribution:
+*"Tommi Järvinen — AI-Native Business Design"*, with a link back to this repository.
